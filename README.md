@@ -4,7 +4,7 @@ A VS Code extension that gives you a simple command to quickly toggle the global
 
 ## How to run
 
-- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Pair Colorization'` command.
+- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Color DLW'` command.
 
 ## Important
 
