@@ -8,6 +8,12 @@
         "out": true, // set this to false to include "out" folder in search results
         "dist": true // set this to false to include "dist" folder in search results
     },
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#4fb1bc",
+        "editorBracketHighlight.foreground2": "#FF802B",
+        "editorBracketHighlight.foreground3": "#db6165",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#db6165"
+    },
     // Turn off tsc task auto detection since we have the necessary tasks as npm scripts
     "typescript.tsc.autoDetect": "off"
 }

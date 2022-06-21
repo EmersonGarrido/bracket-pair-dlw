@@ -2,8 +2,8 @@
   "name": "bracket-pair-color-dlw",
   "displayName": "Bracket Pair Color DLW",
   "description": "Quickly 'Bracket Pair Color DLW' setting with a simple command",
-  "publisher": "emerson-garrido",
-  "version": "0.0.1",
+  "publisher": "BracketPairColorDLW",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.62.0"
   },
