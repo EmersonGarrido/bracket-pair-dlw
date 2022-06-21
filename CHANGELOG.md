@@ -1,17 +1,11 @@
 # Changelog
 
-## 0.0.2 - 2021-11-24
-
-### Added
-
-- Extension icon
-
-## 0.0.1 - 2021-11-20
+## 0.0.4 - 2022-06-21
 
 - Initial release
 
 ### Added
 
-Command to toggle global "Bracket Pair Colorization" setting
+Command to toggle global "Bracket Pair Color DLWeb" setting
 
-- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Pair Colorization'` command.
+- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Pair Dlwe'` command.
