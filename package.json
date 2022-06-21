@@ -1,9 +1,9 @@
 {
-  "name": "bracket-pair-toggler",
-  "displayName": "Bracket Pair Colorization Toggler",
-  "description": "Quickly toggle 'Bracket Pair Colorization' setting with a simple command",
-  "publisher": "dzhavat",
-  "version": "0.0.2",
+  "name": "bracket-pair-color-dlw",
+  "displayName": "Bracket Pair Color DLW",
+  "description": "Quickly 'Bracket Pair Color DLW' setting with a simple command",
+  "publisher": "emerson-garrido",
+  "version": "0.0.1",
   "engines": {
     "vscode": "^1.62.0"
   },
@@ -23,8 +23,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "bracket-pair-toggler.run",
-        "title": "Toggle 'Bracket Pair Colorization'"
+        "command": "bracket-pair-color-dlw.run",
+        "title": "Active 'Bracket Pair Color DLW'"
       }
     ]
   },
