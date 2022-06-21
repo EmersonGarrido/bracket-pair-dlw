@@ -6,6 +6,6 @@
 
 ### Added
 
-Command to toggle global "Bracket Pair Color DLWeb" setting
+Command to toggle global "Bracket Pair Color DLW" setting
 
-- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Pair Dlwe'` command.
+- Press `Ctrl + Shift + P` (Win, Linux) / `Cmd + Shift + P` (Mac) and search for the `Toggle 'Bracket Pair Dlw'` command.
